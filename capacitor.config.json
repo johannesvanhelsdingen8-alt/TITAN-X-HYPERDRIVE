@@ -1,0 +1,16 @@
+{
+  "appId": "com.titanx.hyperforge",
+  "appName": "Titan X: Hyperforge",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false,
+    "backgroundColor": "#020617"
+  }
+}
+

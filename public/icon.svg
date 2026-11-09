@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#020617"/>
+  <rect x="16" y="16" width="480" height="480" rx="112" stroke="#10b981" stroke-width="8" stroke-opacity="0.3"/>
+  <circle cx="256" cy="256" r="180" fill="#06121e" stroke="#10b981" stroke-width="12" filter="drop-shadow(0 0 24px rgba(16,185,129,0.5))"/>
+  <path d="M170 170 L256 120 L342 170 L342 342 L256 392 L170 342 Z" stroke="#34d399" stroke-width="10" fill="#092225"/>
+  <!-- Xbox X Cross Cutting Blade -->
+  <path d="M196 196 L316 316" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+  <path d="M316 196 L196 316" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+  <path d="M256 160 L256 352" stroke="#10b981" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="256" cy="256" r="32" fill="#10b981" filter="drop-shadow(0 0 16px rgba(52,211,153,0.9))"/>
+</svg>

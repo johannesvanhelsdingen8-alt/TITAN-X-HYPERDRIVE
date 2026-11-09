@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "TITAN X: HYPERFORGE",
+  "short_name": "Titan X",
+  "description": "Silicon Overdrive & 8GB VRAM Warfare Engine for Android",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

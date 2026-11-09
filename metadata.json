@@ -1,0 +1,6 @@
+{
+  "name": "Apex Tuner - Android Overclock & Kernel Studio",
+  "description": "Kernel governor overclocking, 8GB VRAM/zRAM expansion, graphics driver tuning, vivid display calibration, and Magisk flashable module generator for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
